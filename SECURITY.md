@@ -12,7 +12,7 @@ Write to **guelsmwenderwa@gmail.com** with:
 - what an attacker could do, and the steps to reproduce it;
 - the version or commit you tested.
 
-You will receive an answer within seven days. Once the problem is confirmed, a fix is prepared before any public disclosure, and you are credited if you wish.
+Once the problem is confirmed, a fix is prepared before any public disclosure, and you are credited if you wish.
 
 ## Supported versions
 
